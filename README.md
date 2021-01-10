@@ -24,6 +24,8 @@ Please refer to the solved code shown below
 ![](https://github.com/Marietas/stock-analysis/blob/main/Resources/VBA_Challenge_2017_old%20time.PNG)
 
 ##### 2018
+![](https://github.com/Marietas/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
+![](https://github.com/Marietas/stock-analysis/blob/main/Resources/VBA_Challenge_2018_old%20time.PNG)
 
 ## Summary
 ### What are the advantages or disadvantages of refactoring code?
