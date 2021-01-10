@@ -7,9 +7,7 @@ This project aims to compare the stock performance between 2017 and 2018 to dete
 To compare the stock performance between 2017 and 2018 and provide a refactored analysis, I worked with the original script called “challenge_starter_code.vbs” and renamed it to “VBA_Challenge. Vbs” afterward. 
 To provide a more efficient code able to reduce the execution time, I used the function “tickerindex” that was applied for the following variables: “tickerVolumes”, “tickerStartingPrices,” and “tickerEndignPrices”. By using this function and applying the For loop and conditional analysis with [If then], I was able to structure and organize the original script to make it 4x faster. 
 
-The code below shows the adjusted script for the four questions required.
-
-### Chart1 - Solved Script
+Please refer to the solved code shown below
 
 ![](https://github.com/Marietas/stock-analysis/blob/main/Resources/Script%20solution.PNG)
 
