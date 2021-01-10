@@ -9,6 +9,10 @@ To provide a more efficient code able to reduce the execution time, I used the f
 
 The code below shows the adjusted script for the four questions required.
 
+### Chart1 - Solved Script
+
+![](https://github.com/Marietas/stock-analysis/blob/main/Resources/Script%20solution.PNG)
+
 ## Summary
 ### What are the advantages or disadvantages of refactoring code?
 #### Advantages
