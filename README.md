@@ -16,6 +16,12 @@ Please refer to the solved code shown below
 
 ![](https://github.com/Marietas/stock-analysis/blob/main/Resources/Data%202018.PNG)
 
+#### Execution times
+
+##### 2017
+
+##### 2018
+
 ## Summary
 ### What are the advantages or disadvantages of refactoring code?
 #### Advantages
