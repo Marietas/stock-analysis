@@ -18,5 +18,5 @@ The purpose of this project is to compare the stock performance between 2017 and
 - The cost and time of refactoring can be higher than creating a new code.
 - Refactoring requires a very solid test procedure as well a time to complete the tests.
 
-2. How do these pros and cons apply to refactoring the original VBA script?
+### How do these pros and cons apply to refactoring the original VBA script?
 The biggest pro of refactoring the code was that the execution time was reduced from x to x for 2017 and from x to x for 2018. On the other side, the biggest con was to try to understand the logic of the original script. In some instances, I believe that the time of refactoring could have been higher than creating a new code from Scratch. 
