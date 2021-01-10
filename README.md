@@ -23,7 +23,7 @@ Please refer to the solved code shown below
 ![](https://github.com/Marietas/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 ![](https://github.com/Marietas/stock-analysis/blob/main/Resources/VBA_Challenge_2017_old%20time.PNG)
 
-##### 2018 -New execution time vs Original execution time
+##### 2018 - New execution time vs Original execution time
 
 ![](https://github.com/Marietas/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 ![](https://github.com/Marietas/stock-analysis/blob/main/Resources/VBA_Challenge_2018_old%20time.PNG)
