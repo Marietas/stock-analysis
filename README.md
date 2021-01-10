@@ -20,6 +20,8 @@ Please refer to the solved code shown below
 
 ##### 2017
 
+![](https://github.com/Marietas/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+
 ##### 2018
 
 ## Summary
