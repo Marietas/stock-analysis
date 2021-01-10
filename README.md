@@ -1,9 +1,12 @@
 # Stock-Analysis - Challenge 2
 
 ## Overview of Project
-The purpose of this project is to compare the stock performance between 2017 and 2018 in order to determine the best investment option. In terms of the code, the goal of the project is to ensure that the script is more efficient than the one original by improving the logic of the code, making it easier to read and reducing the execution time. 
+This project aims to compare the stock performance between 2017 and 2018 to determine the best investment option. In terms of the code, the goal is to ensure that the script is more efficient than the original one by improving the logic of the code, making it easier to read, and reduce the execution time.  
 
 ## Results
+To compare the stock performance between 2017 and 2018 and provide a refactored analysis, I worked with the original script called “challenge_starter_code.vbs” and renamed it to “VBA_Challenge. Vbs” afterward. 
+To provide a more efficient code able to reduce the execution time, I used the function “tickerindex” that was applied for the following variables: “tickerVolumes”, “tickerStartingPrices,” and “tickerEndignPrices”. By using this function and applying the For loop and conditional analysis with [If then], I was able to structure and organize the original script to make it 4x faster. 
+The code below shows the adjusted script for the four questions required.
 
 ## Summary
 ### What are the advantages or disadvantages of refactoring code?
