@@ -11,6 +11,8 @@ Please refer to the solved code shown below
 
 ![](https://github.com/Marietas/stock-analysis/blob/main/Resources/Script%20solution.PNG)
 
+#### Comparison of the stock performance between 2017 and 2018
+
 ## Summary
 ### What are the advantages or disadvantages of refactoring code?
 #### Advantages
